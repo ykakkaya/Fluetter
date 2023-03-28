@@ -23,3 +23,8 @@ https://user-images.githubusercontent.com/100940437/219857678-151a1a0b-8167-4b9c
 ## Sqflite ile crud işlemleri
 
 ![flutter sqflite](https://user-images.githubusercontent.com/100940437/220936138-a0427c4c-c0b4-4ffd-a0b7-6251c4c55cb6.jpg)
+
+## News api den veri çekme
+
+https://user-images.githubusercontent.com/100940437/228212100-1ff80aef-88d9-4fbe-83fa-578576956e0f.mp4
+
