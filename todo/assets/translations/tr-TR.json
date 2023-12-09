@@ -1,0 +1,12 @@
+{
+    "appbarTitle":"YAPILACAK LİSTEM",
+    "emptyTask":"YAPILACAK GÖREV YOK",
+    "addTask":"Ne Yapıyoruz?",
+    "removeTask":"GÖREVİ SİL",
+    "taskName":"Ne Yapıyoruz:",
+    "taskDate":"Yapılacak Tarih:",
+    "successTask":"Tamamlanan Görev: ",
+    "searchPage":"ARAMA YAPMAK İSTEDİĞİNİZ KELİMEYİ GİRİNİZ",
+    "searchNotFound":"ARAMA SONUCU BULUNAMADI"
+
+}

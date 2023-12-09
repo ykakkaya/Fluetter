@@ -1,0 +1,12 @@
+{
+    "appbarTitle":"MEINE TODO-LISTE",
+    "emptyTask":"KEINE AUFGABE ZU ERFÜLLEN",
+    "addTask":"Was machen wir?",
+    "removeTask":"AUFGABE LÖSCHEN",
+    "taskName":"Was machen wir:",
+    "taskDate":"Zu erledigender Termin:",
+    "successTask":"Abgeschlossene Aufgabe",
+    "searchPage":"Geben Sie das Wort ein, nach dem Sie suchen möchten",
+    "searchNotFound":"SUCHERGEBNISSE NICHT GEFUNDEN"
+
+}

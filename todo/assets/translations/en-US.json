@@ -1,0 +1,12 @@
+{
+    "appbarTitle":"MY TODO LIST",
+    "emptyTask":"NO TASK TO BE DONE",
+    "addTask":"What are we doing?",
+    "removeTask":"REMOVE TASK",
+    "taskName":"What are we doing:",
+    "taskDate":"Date to be done:",
+    "successTask":"Completed Task",
+    "searchPage":"ENTER THE WORD YOU WANT TO SEARCH",
+    "searchNotFound":"SEARCH RESULTS NOT FOUND"
+
+}
